@@ -1,5 +1,14 @@
+# Hey! I'm Francisco Márcio(Xyscco)
+#### Software Engineer | Node | Angular | Python | Delphi | SQL
+<i>(Goianira, GO - Brasil)</i>
 
-# Hey! I'm Francisco Márcio
+## Redes
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/xyscco)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-márcio-da-costa-miranda-268915b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xyscco)
+<br />
+<br />
 
 ## Sobre mim(About Me)
 
